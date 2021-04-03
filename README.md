@@ -5,9 +5,9 @@ Ola is India’s largest mobility platform and one of the world’s largest ride
 
 To more deep dive into webworld
 
-I have created HomePage clone of (www.olacabs.com).
+I have created HomePage clone.
 
-Using HTML CSS and javascript.
+Using HTML and  CSS .
 
 You can clone this in your IDE to explore More
 
